@@ -65,7 +65,7 @@
   </div>
 
   <footer>
-    © 2025 Bhargavi Srinath. Powered by GitHub Pages. Theme: custom HTML.
+    © 2025 Bhargavi Srinath.
   </footer>
 
 </body>
